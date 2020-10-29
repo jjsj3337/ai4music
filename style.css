@@ -1,4 +1,7 @@
-.title {
+body
+{ background-color: #a4dcde; }
+tittle {
+	font-family: 'Jua',sans-serif;
 	font-weight: bold;
 	font-size: 30px;
 }
